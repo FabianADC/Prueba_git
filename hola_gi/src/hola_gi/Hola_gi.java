@@ -23,7 +23,9 @@ public class Hola_gi {
     
     nombre=JOptionPane.showInputDialog("dime tu nombre");
     
-    JOptionPane.showMessageDialog(null,"HOLA"+nombre+"como vas");
+    JOptionPane.showMessageDialog(null,"HOLA ya hice un cambio en mi git had"+nombre+"ok men");
+        
+       
     
         // TODO code application logic here
     }
